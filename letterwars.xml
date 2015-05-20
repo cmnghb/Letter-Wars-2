@@ -1,0 +1,6 @@
+<game>
+	<spawnDelay>2000</spawnDelay>
+	<fallMultiplier>.4</fallMultiplier>
+	<delayDif>10</delayDif>
+	<scoreMultiplier>1.0</scoreMultiplier>
+</game>
